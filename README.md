@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+23.11.02
+
+socail media app practice with firebase
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
