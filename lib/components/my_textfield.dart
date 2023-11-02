@@ -12,6 +12,9 @@ class MyTextField extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const TextField();
+    return TextField(
+      controller: controller,
+      decoration: const InputDecoration(border: OutlineInputBorder()),
+    );
   }
 }
